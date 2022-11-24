@@ -2,3 +2,11 @@ Band
 Ticket-sale
 Band-tours
 Music
+Adam Eve
+John Mc.Cabble
+Diana Gloria
+New York(Fri-27-Nov-2022)
+Paris(Sat-28-Nov-2022)
+Info about Chicago-the-band
+
+
