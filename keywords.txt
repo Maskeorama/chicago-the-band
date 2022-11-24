@@ -1,12 +1,13 @@
 Band
 Ticket-sale
 Band-tours
-Music
+Musician
 Adam Eve
 John Mc.Cabble
 Diana Gloria
-New York(Fri-27-Nov-2022)
-Paris(Sat-28-Nov-2022)
 Info about Chicago-the-band
+Concert
+Brass Band Music
+
 
 
